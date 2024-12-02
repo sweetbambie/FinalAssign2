@@ -14,7 +14,6 @@ const genres = [
   {id: 35, genreName: 'Comedy' },
   {id: 10402, genreName: 'Music' },
   {id: 878, genreName: 'Sci-Fi' },
-
 ];
 
 async function getMovieByGenre() {
